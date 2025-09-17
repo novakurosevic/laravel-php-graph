@@ -11,4 +11,4 @@
 			$this->assertIsObject(new PieGraph(100, 100));
 		}
 	}
-?>
+

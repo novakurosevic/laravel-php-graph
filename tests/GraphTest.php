@@ -11,4 +11,4 @@
 			$this->assertIsObject(new Graph(100, 100));
 		}
 	}
-?>
+

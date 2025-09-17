@@ -11,4 +11,4 @@
 			$this->assertIsObject(new StackedGraph(100, 100));
 		}
 	}
-?>
+
