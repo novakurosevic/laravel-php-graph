@@ -180,7 +180,6 @@ This way image will be saved to **public/images/php-graph-data/** directory. Thi
 >
 > Also, if you include a directory path in the file name, it will be removed, because **all images are saved in the `public/images/php-graph-data` directory**.
 
----
 
 ---
 
