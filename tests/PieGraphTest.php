@@ -1,7 +1,7 @@
 <?php
-	namespace PhpGraph;
+	namespace Noki\PhpGraph\Tests;
 
-	use PhpGraph\PieGraph;
+	use Noki\PhpGraph\PieGraph;
 	use PHPUnit\Framework\TestCase;
 
 	class PieGraphTest extends TestCase

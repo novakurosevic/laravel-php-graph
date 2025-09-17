@@ -1,7 +1,7 @@
 <?php
-	namespace PhpGraph;
+	namespace Noki\PhpGraph\Tests;
 
-	use PhpGraph\StackedGraph;
+	use Noki\PhpGraph\StackedGraph;
 	use PHPUnit\Framework\TestCase;
 
 	class StackedGraphTest extends TestCase

@@ -1,7 +1,7 @@
 <?php
-	namespace PhpGraph;
+	namespace Noki\PhpGraph\Tests;
 
-	use PhpGraph\Graph;
+	use Noki\PhpGraph\Graph;
 	use PHPUnit\Framework\TestCase;
 
 	class GraphTest extends TestCase
