@@ -1,0 +1,71 @@
+{
+    "name": "noki/laravel-php-graph",
+    "description": "PHP Graphing Library that creates graphs in Laravel",
+    "keywords": [
+        "laravel",
+        "graph",
+        "pie",
+        "chart",
+        "noki",
+        "Laravel PHP Graph"
+    ],
+    "type": "library",
+    "homepage": "https://github.com/novakurosevic/laravel-php-graph",
+    "authors": [
+        {
+            "name": "Elliott Brueggeman",
+            "role": "Developer"
+        },
+        {
+            "name": "Novak Urošević",
+            "role": "Developer"
+        },
+        {
+            "name": "James Wakelim",
+            "role": "Developer"
+        },
+        {
+            "name": "Petr Hurtak",
+            "role": "Developer"
+        },
+        {
+            "name": "Pål Saugstad",
+            "role": "Developer"
+        },
+        {
+            "name": "Ahmet Gencoglu",
+            "role": "Developer"
+        },
+        {
+            "name": "David Gil de Gómez IV",
+            "role": "Developer"
+        },
+        {
+            "name": "Manuel R",
+            "role": "Developer"
+        },
+        {
+            "name": "Troopster19",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Noki\\PhpGraph\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Noki\\PhpGraph\\Tests\\": "tests/"
+        }
+    },
+    "extra": {},
+    "require": {
+        "php": "^7.0 || ^8.0",
+        "ext-gd": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+
