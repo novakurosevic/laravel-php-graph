@@ -21,6 +21,13 @@ This package allows you to create graph and pie chart images. You have several o
 - Save image to storage in Laravel and later handle that image
 - Save image to public directory in Laravel. This way you have public access to this image. This package provides URL for public images.
 
+
+> [!WARNING]
+> ### **Why Check Out This Package**
+> 1. Few Laravel packages provide both graph and chart generation **plus** image export support.
+> 2. It’s lightweight, easy to integrate, and released under the MIT license for full flexibility.
+
+
 ---
 
 ## 🚀 Installation
